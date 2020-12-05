@@ -1,9 +1,21 @@
 <template>
   <div id="app">
-    <router-view/>
+    <router-view />
+    <Vfooter />
   </div>
 </template>
 
+<script>
+
+import Vfooter from '@/components/Vfooter.vue'
+
+export default {
+  name: 'Home',
+  components: {
+    Vfooter
+  }
+}
+</script>
 <style lang="less">
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;

@@ -5,7 +5,7 @@
                 <h3>源于自然 / 归于本真</h3>
                  <p>源于大自然的护肤能量</p>
               </div>
-              <img src='../assets/img/banner.png'/>
+              <img src='../assets/img/img2.png'/>
             </swiper-slide>
             <swiper-slide> <img src='../assets/img/banner.png'/></swiper-slide>
             <div class="swiper-pagination" slot="pagination"> </div>

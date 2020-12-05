@@ -1,6 +1,6 @@
 <template>
   <div class="vfooter">
-    <img src="../assets/img/logo2.png" alt="logo" width="30%;">
+    <img src="../assets/img/logo.png" alt="logo" width="30%;">
     <ul class="info">
       <li>
         <P>积分商城</P>

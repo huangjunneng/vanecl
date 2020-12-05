@@ -1,6 +1,7 @@
 <template>
   <div class="vheader">
     <h1>
+      <span style="display:inline-block;"></span>
       <slot />
       <NavMenu />
     </h1>
@@ -27,9 +28,6 @@ export default {
   width: 100%;
   h1 {
     margin: 0;
-    img {
-      margin-top: 22px;
-    }
   }
 }
 </style>
